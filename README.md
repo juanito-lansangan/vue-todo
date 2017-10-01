@@ -1,6 +1,11 @@
 # vue-todo
 
-> A Vue.js project
+> Learning vue js road map
+- route & middleware
+- http calls
+- auth
+- web sockets
+- basic chat app
 
 ## Build Setup
 
